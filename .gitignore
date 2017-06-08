@@ -3,6 +3,10 @@
 *.iml
 *.iws
 
+# Eclipse
+.project
+.settings/
+
 # Mac
 .DS_Store
 
